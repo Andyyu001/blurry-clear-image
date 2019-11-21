@@ -10,6 +10,8 @@ code: https://github.com/sniklaus/sepconv-slomo
 
 3. Paper3:A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation
 download: https://davischallenge.org/davis2016/code.html
+4. dataset: CrowdFix: An Eyetracking Dataset of Real Life Crowd Videos
+download: https://github.com/MemoonaTahira/CrowdFix
 
 
 1. input: blurry image 
